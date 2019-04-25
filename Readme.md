@@ -5,9 +5,6 @@
 
 # Set some goals to contrubute
 #### Get familar with github
-Start paying attention to what you use and when you think "I have an idea for this" start the repo so you can start watching the activity. 
-cle
-
 
 ## Get the hang of the workflow:
 
