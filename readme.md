@@ -3,8 +3,6 @@
 
 ## We :heart: Contributors Like You!
 
-This repository currently contains the Git and GitHub Cheatsheets. If you're looking for a project that used to be housed here, such as On-Demand training, reading lists, videos, and book recommendations, see [this commit](https://github.com/github/training-kit/tree/4fbf180e980ef973ba4cc4b8ef3d5f278ddc8c08) in the repository's history.
-
 ## Set some goals to contrubute
 
 [https://hacktoberfest.digitalocean.com/]
