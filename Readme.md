@@ -1,6 +1,6 @@
 
 # Learning to Contribute to GitHub: Cheatsheets
-
+Don't forget to look at the git documents.
 ## We :heart: Contributors Like You!
 
 # Set some goals to contrubute
