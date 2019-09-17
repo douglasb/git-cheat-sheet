@@ -59,7 +59,7 @@ git remote add upstream https://github.com/OriginalOwner/OriginalProject.git
 ```
 git remote -v
 ``` 
-- Checkout your forks local master then merge changes from upstream/master into it.
+- Checkout your fork's local master then merge changes from upstream/master into it.
 ```
 git checkout master
 git branch
