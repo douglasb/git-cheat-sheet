@@ -44,3 +44,29 @@ This means you can use the content and code in this repository except for GitHub
 When you contribute to this repository you are doing so under the above licenses.
 
 
+## Forking Repos
+
+- Fork repo to your local account and clone
+- Check remote status 
+```
+git remote -v
+```
+- Specify the a remote upstream repo to sync with your fork
+```
+git remote add upstream https://github.com/OriginalOwner/OriginalProject.git
+```
+- Verify
+```
+git remote -v
+``` 
+- Checkout your forks local master then merge changes from upstream/master into it.
+```
+git checkout master
+git branch
+git merge upstream/master
+```
+- Push changes to update your fork 
+```
+git branch
+git push
+```
